@@ -22,4 +22,4 @@
 <br><i>Цветы и травы высыпали в землю свои семена. Налетел ветер. Закачались их гибкие стебельки.
 Самая жаркая пора работы на полях.</i>
 <br>Высокие груды моркови, репы, свёклы лежат между грядками. Школьники помогают убирать богатый урожай. Подъезжают машины.
-<tittle> <p align="center"><font face ="Arial"><a href="[file:///C:/Users/Sergey/Desktop/22.html](https://github.com/Artyom1Bezusyy/index/blob/main/index2.html)">Второй документ</a></font>
+<tittle> <p align="center"><font face ="Arial"><a href="https://github.com/Artyom1Bezusyy/index/blob/main/index2.html">Второй документ</a></font>
